@@ -1,0 +1,16 @@
+# Ignored files
+.classpath
+.project
+DACS3.docx
+Server.txt
+activation-0.X.jar
+bookmarks_12_27_22.html
+build.xml
+javafx-0.2-sources.jar
+manifest.mf
+
+# Ignored directories
+dist/
+nbproject/
+src/
+build/
