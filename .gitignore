@@ -12,5 +12,4 @@ manifest.mf
 # Ignored directories
 dist/
 nbproject/
-src/
 build/
